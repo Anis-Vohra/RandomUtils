@@ -7,6 +7,8 @@ This script converts a folder of JPG images into a looping animated GIF.
 ```
 python gif_creator.py --input "C:\Path\To\Images" --duration 50 --output "my_animation.gif"
 
+```
+
 ### Arguments
 | Argument     | Description                                         |
 | ------------ | --------------------------------------------------- |
